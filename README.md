@@ -4,9 +4,9 @@
 
 
 Files:
-- msd_cal.m : Mean square discplacement analysis script based on the MATLAB class MSDanalyzer. Check https://github.com/tinevez/msdanalyzer for details.
+- Circularity_measurments.m; Constriction_curvature.m; Length-Width_measurments.m; Pole_Curvature.m : MATLAB scripts for extracting curcularity, constriction and polar curvature, and length & width values.  
 - XTurboStackReg3D_.jar : Modified version of Stackreg plugin in Fiji. Originally developed by [Thénevaz et al 1998](https://pubmed.ncbi.nlm.nih.gov/18267377/) http://bigwww.epfl.ch/thevenaz/stackreg/ and modified by [Ringel et al 2017](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)31816-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124717318168%3Fshowall%3Dtrue) 
-
+- msd_cal.m : Mean square discplacement analysis script based on the MATLAB class MSDanalyzer. Check https://github.com/tinevez/msdanalyzer for details.
 <!---
 NavarroVettiger/NavarroVettiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
