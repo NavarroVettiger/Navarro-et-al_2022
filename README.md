@@ -1,5 +1,5 @@
 - This is the GitHub repository from Dr. Paula Navarro and Dr. Andrea Vettiger @NavarroVettiger
-- On this site scripts related to the publication 'Cell wall synthesis and remodeling dynamics determine division site architecture and cell shape in Escherichia coli' (doi: https://doi.org/10.1101/2021.10.02.462887) are provided.
+- On this site scripts related to the publication 'Cell wall synthesis and remodeling dynamics determine division site architecture and cell shape in Escherichia coli' (https://www.nature.com/articles/s41564-022-01210-z) are provided.
 - These scripts are provided 'as is', without warrenty of any kind. Some functions may depend on the software package [Dynamo](https://wiki.dynamo.biozentrum.unibas.ch/w/index.php/Main_Page)
 
 Files:
